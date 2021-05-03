@@ -17,7 +17,7 @@ So let me quickly break down how CNN's work, for developers. CNN's start off wit
 
 So anyway, once convolution/filtering layers are done processing image - feature maps then get passed into forward-feed NN. And this is where learning is taking place.
 
-This example is laughably simple, and anecdotal - it's a dog/cat classifier. But it shows all the imporant parts of CNN's right there, in a super simple format. This is why I keep such foundation templates for myself.
+This example is laughably simple, and anecdotal - it's a dog/cat classifier. But it shows all the imporant parts of CNN's right there, in a super simple format. This is why I keep such foundational templates for myself.
 
 Anyway, after we get feature maps, standard linear modeling continues, just like any other classification task.
 
