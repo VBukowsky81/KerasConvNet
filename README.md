@@ -23,6 +23,23 @@ Anyway, after we get feature maps, standard linear modeling continues, just like
 
 So let's quickly go over this example code.
 
+First, standard data preprocessing, just getting image dataset, this time it's 800 images. Breaking it down into training and test datasets, batch sizes, etc, all the usual data preprocessing for ANN consumption. I did not include the dataset - it's too big, and GitHub doesn't accept larger file uploads. You can find your own, any dataset would do, ya know.
+
+Next, building the CNN itself, as you can see, Convolution layers and Filtering layers are present - and these do what I said above - get feature maps, out of images. As you can see, this example repeats Conv/Filter twice. This further brings forward imporant and main features - another filtering layer would just condense features even more.
+
+Then linear layers do actual classification, and build weights, according to appropriate visual patterns, feed to it through given dataset.
+
+After all that - the model will be able to classify between 2 given categories(dog/cat this time). In short, it will be able to tell you if it's a cat or a dog, on any given picture.
+
+This classification can be done on any number of categories, not just 2.
+
+And this is in short, how CNN's learn off visual images, and then learn to classify things, and express intelligent behavior.
+
+Very simple example, but tremendous implications. So, so much can be done with this technology/idea. Robots that actually see our physical world, and fully comprehend it - is one thing that comes to mind. Amazing technology, and incredible field in general.
+
+Good day!
+
+Victor
 
 
 
