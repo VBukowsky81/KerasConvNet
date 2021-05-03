@@ -23,7 +23,7 @@ Anyway, after we get feature maps, standard linear modeling continues, just like
 
 So let's quickly go over this example code.
 
-First, standard data preprocessing, just getting image dataset, this time it's 800 images. Breaking it down into training and test datasets, batch sizes, etc, all the usual data preprocessing for ANN consumption. I did not include the dataset - it's too big, and GitHub doesn't accept larger file uploads. You can find your own, any dataset would do, ya know.
+First, standard data preprocessing, just getting image dataset, this time it's 8000 images. Breaking it down into training and test datasets, batch sizes, etc, all the usual data preprocessing for ANN consumption. I did not include the dataset - it's too big, and GitHub doesn't accept larger file uploads. You can find your own, any dataset would do, ya know.
 
 Next, building the CNN itself, as you can see, Convolution layers and Filtering layers are present - and these do what I said above - get feature maps, out of images. As you can see, this example repeats Conv/Filter twice. This further brings forward imporant and main features - another filtering layer just condenses main features even more.
 
