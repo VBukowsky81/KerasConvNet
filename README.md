@@ -1,6 +1,7 @@
 # KerasConvNet
 Keras CNN - simple classifier
 
+![alt text](https://github.com/VBukowsky81/KerasConvNet/blob/main/KerasCNNPic.jpg)
 
 Convolutional Neural Networks or CNN's.
 
