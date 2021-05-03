@@ -13,7 +13,7 @@ In super super short format, the main idea is this - detecting patterns, on flat
 
 This is very much what biological vision does, in humans and animals - we detect objects, detect edges, and shadows, classify those objects, and then process a response. All that at great speed in our brains, so quickly that we don't notice these steps happening. And it all seems seamless.
 
-So let me quickly break down how CNN's work, for developers. CNN's start off with filtering images - feature filter is applied to images, it's usually sized like 3x3 or 2x2 dimensions. Once convolutions/filters are done with it - what you really have is features, and feature maps, of the original image - and this is what goes into the linear layers afterwards - features. Not just pixels, but entire FEATURES. So linear ANN after the filters is learning off FEATURES, not pixels.
+So let me quickly break down how CNN's work, for developers. CNN's start off with filtering images - feature filter is applied to images, it's usually sized like 3x3 or 2x2 dimensions. Once convolutions/filters are done with it - what you really have is features, and feature maps, of the original image - and this is what goes into the linear layers afterwards - features. Not just pixels, but entire FEATURES. So linear ANN after the filters is learning off FEATURES, not individual pixels.
 
 So anyway, once convolution/filtering layers are done processing image - feature maps then get passed into forward-feed NN. And this is where learning is taking place.
 
