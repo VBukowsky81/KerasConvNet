@@ -35,7 +35,7 @@ This classification can be done on any number of categories, not just 2.
 
 And this is in short, how CNN's learn off visual images, and then learn to classify things, and express intelligent behavior.
 
-Very simple example, but tremendous implications. So, so much can be done with this technology/idea. Robots that actually see our physical world, and fully comprehend it - is one thing that comes to mind. Amazing technology, and incredible field in general.
+Very simple example, but tremendous implications. So, so much can be done with this technology/idea. Robots that actually see our physical world, and fully comprehend it - is one thing that comes to mind. Tesla's Autopilot and FSD - ConvNet, and building a driving system off that. Amazing technology, and incredible field in general.
 
 Good day!
 
