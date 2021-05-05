@@ -33,7 +33,7 @@ After all that - the model will be able to classify between 2 given categories(d
 
 This classification can be done on any number of categories, not just 2.
 
-Here is where classification ends up - object and instance segmentation:
+Here is what classification leads up to - object instance segmentation:
 ![alt text](https://github.com/VBukowsky81/KerasConvNet/blob/main/ObjectSegmentation.jpg)
 
 And this is in short, how CNN's learn off visual images, and then learn to classify things, and express intelligent behavior.
